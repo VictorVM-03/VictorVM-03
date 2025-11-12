@@ -51,7 +51,6 @@ Actualmente, estoy **transicionando al sector Tech**, combinando mi experiencia 
 
 ## 📊 Mis Estadísticas de GitHub
 
-*(¡Tu usuario ya está configurado aquí, así que esto funcionará automáticamente!)*
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorVM-03&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de VictorVM-03"/>
