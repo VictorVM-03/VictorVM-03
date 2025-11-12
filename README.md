@@ -1,1 +1,68 @@
-# V-ctor-V-zquez
+# 👋 ¡Hola! Soy Víctor Vázquez
+### Data Analyst (TripleTen) | Scrum Master (Udemy) | Estudiante de Negocios Digitales (ULA)
+
+Soy un profesional con más de 5 años de experiencia en **logística, operaciones y supervisión de proyectos** en el sector médico y de servicios. Mi trayectoria me ha permitido gestionar equipos, optimizar procesos y trabajar con normativas exigentes (como COFEPRIS).
+
+Actualmente, estoy **transicionando al sector Tech**, combinando mi experiencia de negocio con mi nueva formación técnica como Analista de Datos y Scrum Master. Mi objetivo es aplicar mis habilidades para **transformar datos en decisiones estratégicas** y gestionar proyectos con agilidad.
+
+---
+
+## 🙋 Sobre Mí
+
+* 💻 **Data Analyst en formación (TripleTen):** Desarrollando proyectos prácticos en Python, SQL y Tableau para resolver problemas de negocio.
+* 🎓 **Estudiante de Negocios Digitales (ULA):** Comprendiendo la estrategia, el marketing y los modelos de negocio del mundo digital.
+* 🎯 **Scrum Master Certificado (Udemy):** Listo para implementar metodologías ágiles y facilitar la colaboración de equipos.
+* 🌱 **Mi Fortaleza:** Conozco los "dolores" operativos y logísticos de las empresas desde adentro. Ahora, estoy aprendiendo las herramientas para solucionarlos con tecnología.
+* 🚀 **Buscando activamente** mi primera oportunidad para aportar valor en un rol de Data Analyst o Scrum Master.
+
+---
+
+## 🚀 Tecnologías y Herramientas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Scrum-0094B6?style=for-the-badge&logo=jira&logoColor=white" alt="Scrum/Agile"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+---
+
+## 🧩 Proyectos Destacados
+
+1.  **[Predicción de Fuga de Clientes de Gimnasio (Model Fitness)]**
+    * **Descripción:** Análisis exploratorio y desarrollo de un modelo de Machine Learning (Regresión Logística y Random Forest) para predecir el abandono de clientes, ayudando al negocio a retener usuarios.
+    * **Tecnologías:** Python (Pandas, Scikit-learn), Visualización de Datos (Matplotlib, Seaborn).
+    * **[Ver Repositorio 🔗](https://github.com/VictorVM-03/Model-Fitness-Churn-Prediction)**
+
+2.  **[Análisis de Marketing para "Showz"]**
+    * **Descripción:** Análisis de la efectividad de campañas de marketing. Se calcularon métricas como CAC, LTV y ROMI para investigar la rentabilidad y optimizar la inversión publicitaria.
+    * **Tecnologías:** Python (Pandas), Visualización de Datos (Matplotlib), Análisis de Cohortes.
+    * **[Ver Repositorio 🔗](https://github.com/VictorVM-03/Showz-Marketing-Analysis)**
+
+3.  **[Análisis BI para Operador Telecom]**
+    * **Descripción:** Un proyecto de Business Intelligence para analizar el rendimiento de un operador de telecomunicaciones. Se crearon dashboards para monitorear KPIs clave como churn, uso de datos y rendimiento de planes.
+    * **Tecnologías:** SQL, Tableau (o la herramienta de BI utilizada).
+    * **[Ver Repositorio 🔗](https://github.com/VictorVM-03/Telecom-Operator-Performance-BI)**
+
+---
+
+## 📊 Mis Estadísticas de GitHub
+
+*(¡Tu usuario ya está configurado aquí, así que esto funcionará automáticamente!)*
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorVM-03&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de VictorVM-03"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorVM-03&layout=compact&langs_count=8&theme=dracula" alt="Lenguajes Más Usados por VictorVM-03"/>
+</p>
+
+---
+
+## 📫 ¿Hablamos?
+
+¡Estoy abierto a conectar, colaborar en proyectos y explorar oportunidades laborales!
+
+* 💼 **LinkedIn:** [www.linkedin.com/in/victorvm-data](https://www.linkedin.com/in/victorvm-data)
+* 📧 **Email:** [vico33mun@gmail.com](mailto:vico33mun@gmail.com)
