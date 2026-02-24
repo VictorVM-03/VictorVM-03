@@ -56,9 +56,10 @@ Actualmente, estoy **transicionando al sector Tech**, combinando mi experiencia 
 ## 📊 Mis Estadísticas de GitHub
 
 
-![Stats de Víctor](https://github-readme-stats.vercel.app/api?username=VictorVM-03&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorVM-03&layout=compact&theme=radical)
-
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorVM-03&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorVM-03&layout=compact&langs_count=8&theme=radical" />
+</p>
 ---
 
 ## 📫 ¿Hablamos?
