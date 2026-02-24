@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Banner_DataAnalyst.jpeg" alt="Víctor Vázquez Banner" width="100%">
+</p>
+
 # 👋 ¡Hola! Soy Víctor Vázquez
 ### Data Analyst (TripleTen) | Scrum Master (Udemy) | Estudiante de Negocios Digitales (ULA)
 
@@ -63,5 +67,14 @@ Actualmente, estoy **transicionando al sector Tech**, combinando mi experiencia 
 
 ¡Estoy abierto a conectar, colaborar en proyectos y explorar oportunidades laborales!
 
-* 💼 **LinkedIn:** [www.linkedin.com/in/victorvm-data](https://www.linkedin.com/in/victorvm-data)
-* 📧 **Email:** [vico33mun@gmail.com](mailto:vico33mun@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/victorvazquez-dataanalyst" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:vico33mun@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://wa.me/525539856416" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
