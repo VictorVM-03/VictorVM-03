@@ -53,12 +53,6 @@ Actualmente, estoy **transicionando al sector Tech**, combinando mi experiencia 
 
 ---
 
-## 📊 Mis Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorVM-03&theme=radical&hide_border=true" alt="Racha de actividad de Víctor" />
-</p>
-
 ## 📫 ¿Hablamos?
 
 ¡Estoy abierto a conectar, colaborar en proyectos y explorar oportunidades laborales!
