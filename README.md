@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="Banner_DataAnalyst.jpeg" alt="Víctor Vázquez Banner" width="100%">
+  <img src="Banner_DataAnalyst.jpeg" 
+       alt="Víctor Vázquez Banner" 
+       width="100%" 
+       style="max-height:350px; object-fit:cover;">
 </p>
 
 # 👋 ¡Hola! Soy Víctor Vázquez
