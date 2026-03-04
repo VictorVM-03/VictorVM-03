@@ -2,7 +2,7 @@
   <img src="Banner_DataAnalyst.jpeg" 
        alt="Víctor Vázquez Banner" 
        width="100%" 
-       style="max-height:350px; object-fit:cover;">
+       style="max-height: 200px; object-fit: cover; object-position: center;">
 </p>
 
 # 👋 ¡Hola! Soy Víctor Vázquez
